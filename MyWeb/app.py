@@ -1,5 +1,5 @@
 from flask import Flask
-from flask import render_template
+from flask import render_template, url_for
  
 app = Flask(__name__)
 
@@ -10,4 +10,4 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

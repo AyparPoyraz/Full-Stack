@@ -1,0 +1,7 @@
+body {
+    background-color: black; /* Arka plan rengi siyah */
+    color: white; /* Yazı rengi beyaz */
+    font-family: Arial, sans-serif; /* Yazı fontu */
+    margin: 0; /* Varsayılan margin'i sıfırla */
+    padding: 0; /* Varsayılan padding'i sıfırla */
+}
